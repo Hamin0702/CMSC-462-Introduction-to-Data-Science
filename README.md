@@ -9,9 +9,11 @@
 
 ## 📂 Repository Structure
 
-├── projects/ # Major assignments or capstones
-├── labs/ # Weekly exercises or small tasks
-├── notes/ # Personal lecture notes and summaries
-├── syllabus/ # Course syllabus (PDF or document)
-├── assignments/ # Written homework or problem sets
-└── resources/ # Articles, slides, reading material
+```
+├── projects/           # Major assignments or capstones
+├── labs/               # Weekly exercises or small tasks
+├── notes/              # Personal lecture notes and summaries
+├── syllabus/           # Course syllabus (PDF or document)
+├── assignments/        # Written homework or problem sets
+└── resources/          # Articles, slides, reading material
+```
