@@ -1,2 +1,6 @@
-# 📚 Introduction to Data Science
-**Class Code:** CMSC 462
+# 📚 CMSC 462 Introduction to Data Science
+
+> Quick highlights ✨
+* d
+* dfas
+* fads
